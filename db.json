@@ -99,9 +99,6 @@
     "dosen1":"",
     "dosen2":""
   }],
-  "kategori":[{
-    "1":"cs"
-  }],
   "tiket_aktif":[
     {
       "kode_tiket":"",
@@ -113,19 +110,8 @@
       "kode_qr":"",
       "jawaban":""
     }
-  ],
-  "histori_tiket":[
-    {
-      "kode_tiket":"",
-      "status":"",
-      "id_kategori":"",
-      "kategori":"",
-      "tanggal":"",
-      "waktu":"",
-      "kode_qr":"",
-      "jawaban":""
-    }
   ]
+  
 
 
 }
