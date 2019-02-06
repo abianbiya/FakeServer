@@ -80,6 +80,7 @@
           }]
       },
   "nilai":[{
+    "id":1,
     "nama_makul":"Pendidikan Pancasila",
     "kode_makul":"520001",
     "nilai_huruf":"AB",
@@ -91,6 +92,7 @@
     "ipk":3.9
   }],
   "presensi":[{
+    "id":1,
     "nama_makul":"Pendidikan Pancasila",
     "kode_makul":"520001",
     "presentase":"93,34%",
@@ -100,6 +102,7 @@
     "dosen2":"Bulawarmak, S.Kom., M.E."
   }],
   "tiket_aktif":[{
+      "id":1,
       "kode_tiket":"#HB34FI5DI",
       "status":"Perlu Datang",
       "id_kategori":"1",
