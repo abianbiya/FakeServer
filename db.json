@@ -99,8 +99,7 @@
     "dosen1":"",
     "dosen2":""
   }],
-  "tiket_aktif":[
-    {
+  "tiket_aktif":[{
       "kode_tiket":"",
       "status":"",
       "id_kategori":"",
@@ -109,6 +108,5 @@
       "waktu":"",
       "kode_qr":"",
       "jawaban":""
-    }
-  ]
+  }]
 }
