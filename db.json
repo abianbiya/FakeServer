@@ -80,33 +80,33 @@
           }]
       },
   "nilai":[{
-    "nama_makul":"",
-    "kode_makul":"",
-    "nilai_huruf":"",
-    "nilai_angka":"",
-    "id_semester":"",
-    "semester":"",
-    "ip_semester":"",
-    "tahun_ajaran":"",
-    "ipk":""
+    "nama_makul":"Pendidikan Pancasila",
+    "kode_makul":"520001",
+    "nilai_huruf":"AB",
+    "nilai_angka":84,
+    "id_semester":321,
+    "semester":3,
+    "ip_semester":3.2,
+    "tahun_ajaran":"2018/2019",
+    "ipk":3.9
   }],
   "presensi":[{
-    "nama_makul":"",
-    "kode_makul":"",
-    "presentase":"",
-    "jml_pertemuan":"",
-    "hadir":"",
-    "dosen1":"",
-    "dosen2":""
+    "nama_makul":"Pendidikan Pancasila",
+    "kode_makul":"520001",
+    "presentase":"93,34%",
+    "jml_pertemuan":"16",
+    "hadir":"14",
+    "dosen1":"Muhamad Sucipto, S.Sos., M.Hum.",
+    "dosen2":"Bulawarmak, S.Kom., M.E."
   }],
   "tiket_aktif":[{
-      "kode_tiket":"",
-      "status":"",
-      "id_kategori":"",
-      "kategori":"",
-      "tanggal":"",
-      "waktu":"",
-      "kode_qr":"",
-      "jawaban":""
+      "kode_tiket":"#HB34FI5DI",
+      "status":"Perlu Datang",
+      "id_kategori":"1",
+      "kategori":"Akademik",
+      "tanggal":"12 Februari 2019",
+      "waktu":"14.00 WIB",
+      "kode_qr":"httpd://un.nes/#HB34FI5DI",
+      "jawaban":null
   }]
 }
